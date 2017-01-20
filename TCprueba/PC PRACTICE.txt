@@ -1,0 +1,45 @@
+*sistem health check 
+*horas
+*servicios
+*tns names 
+
+
+
+
+*************La IP DE ALM ES 10.10.15.233:8080/qcbin 
+
+El usuario de alm es satan y la clave es 12345
+
+80 8080
+
+
+**************La ip de mi performance center server es 10.10.15.235,la clave es $$ab12cd 
+3333	Any
+80	Any
+54245	Any
+Any	8080
+Any	8080, 8731, 1433
+1521  oracle 
+
+// server services: 
+alagent 
+datacollection agent t
+
+
+ ***************del host es 10.10.15.236. el usuario para ambas maquinas es administrator  la clave es $$ab12cd.
+
+
+3333	Any
+54245	Any
+54345,50500	Any
+8731	Any
+Any	8080
+Any	80,8080
+
+///host services: 
+data collection 
+performance center agent
+performance center for load testing 
+remote managment 
+
+

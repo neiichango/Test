@@ -1,0 +1,99 @@
+Virtual User Script started at : 2016-09-16 18:04:58
+Starting action Init.
+TruClient Replay for LoadRunner 12.50.0, build 1096. OS: Windows 8.1, Browser: IE, initialized on 2016/09/16 at 18:04:57 (0000.000s)
+Ending action Init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+t=00002402ms: ** 1: Navigate to "www.google.com" ** started    [MsgId: MMSG-205180]
+t=00007806ms: ** 1: Navigate to "www.google.com" ** successfully completed    [MsgId: MMSG-205180]
+t=00008323ms: ** 3: Type flower in Search combobox ** started    [MsgId: MMSG-205180]
+t=00010656ms: ** 3: Type flower in Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00011170ms: ** 4: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]
+t=00012616ms: ** 4: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00013123ms: ** 6: Click on Images link ** started    [MsgId: MMSG-205180]
+t=00014826ms: ** 6: Click on Images link ** successfully completed    [MsgId: MMSG-205180]
+t=00015342ms: ** 8: Click on Google image ** started    [MsgId: MMSG-205180]
+t=00016166ms: ** 8: Click on Google image ** successfully completed    [MsgId: MMSG-205180]
+t=00016339ms: ** 10: search (1) ** started    [MsgId: MMSG-205180]
+t=00017009ms: ** 10.1: Click on Search combobox ** started    [MsgId: MMSG-205180]
+t=00017418ms: ** 10.1: Click on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00017932ms: ** 10.2: Type food in Search combobox ** started    [MsgId: MMSG-205180]
+t=00019872ms: ** 10.2: Type food in Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00020384ms: ** 10.3: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]
+t=00021963ms: ** 10.3: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00021996ms: ** 10: search (1) ** successfully completed    [MsgId: MMSG-205180]
+t=00022064ms: ** 11: Mouse Over ** started    [MsgId: MMSG-205180]
+t=00022595ms: ** 11.4: Move mouse over element (3) ** started    [MsgId: MMSG-205180]
+t=00022871ms: ** 11.4: Move mouse over element (3) ** successfully completed    [MsgId: MMSG-205180]
+t=00022900ms: ** 11: Mouse Over ** successfully completed    [MsgId: MMSG-205180]
+t=00023417ms: ** 12: Click on Images link ** started    [MsgId: MMSG-205180]
+t=00024635ms: ** 12: Click on Images link ** successfully completed    [MsgId: MMSG-205180]
+t=00025954ms: ** 14: Click on Google image ** started    [MsgId: MMSG-205180]
+t=00027149ms: ** 14: Click on Google image ** successfully completed    [MsgId: MMSG-205180]
+Ending action Action.
+Ending iteration 1.
+Starting iteration 2.
+Starting action Action.
+t=00028351ms: ** 1: Navigate to "www.google.com" ** started    [MsgId: MMSG-205180]
+t=00031665ms: ** 1: Navigate to "www.google.com" ** successfully completed    [MsgId: MMSG-205180]
+t=00032183ms: ** 3: Type flower in Search combobox ** started    [MsgId: MMSG-205180]
+t=00034150ms: ** 3: Type flower in Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00034667ms: ** 4: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]
+t=00035918ms: ** 4: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00036437ms: ** 6: Click on Images link ** started    [MsgId: MMSG-205180]
+t=00037320ms: ** 6: Click on Images link ** successfully completed    [MsgId: MMSG-205180]
+t=00037951ms: ** 8: Click on Google image ** started    [MsgId: MMSG-205180]
+t=00038913ms: ** 8: Click on Google image ** successfully completed    [MsgId: MMSG-205180]
+t=00038930ms: ** 10: search (1) ** started    [MsgId: MMSG-205180]
+t=00039464ms: ** 10.1: Click on Search combobox ** started    [MsgId: MMSG-205180]
+t=00039867ms: ** 10.1: Click on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00040382ms: ** 10.2: Type food in Search combobox ** started    [MsgId: MMSG-205180]
+t=00041883ms: ** 10.2: Type food in Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00042398ms: ** 10.3: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]
+t=00043780ms: ** 10.3: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00043810ms: ** 10: search (1) ** successfully completed    [MsgId: MMSG-205180]
+t=00043841ms: ** 11: Mouse Over ** started    [MsgId: MMSG-205180]
+t=00044360ms: ** 11.4: Move mouse over element (3) ** started    [MsgId: MMSG-205180]
+t=00044635ms: ** 11.4: Move mouse over element (3) ** successfully completed    [MsgId: MMSG-205180]
+t=00044666ms: ** 11: Mouse Over ** successfully completed    [MsgId: MMSG-205180]
+t=00045182ms: ** 12: Click on Images link ** started    [MsgId: MMSG-205180]
+t=00046959ms: ** 12: Click on Images link ** successfully completed    [MsgId: MMSG-205180]
+t=00047881ms: ** 14: Click on Google image ** started    [MsgId: MMSG-205180]
+t=00049057ms: ** 14: Click on Google image ** successfully completed    [MsgId: MMSG-205180]
+Ending action Action.
+Ending iteration 2.
+Starting iteration 3.
+Starting action Action.
+t=00050807ms: ** 1: Navigate to "www.google.com" ** started    [MsgId: MMSG-205180]
+t=00054494ms: ** 1: Navigate to "www.google.com" ** successfully completed    [MsgId: MMSG-205180]
+t=00055010ms: ** 3: Type flower in Search combobox ** started    [MsgId: MMSG-205180]
+t=00057434ms: ** 3: Type flower in Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00057947ms: ** 4: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]
+t=00059367ms: ** 4: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00059884ms: ** 6: Click on Images link ** started    [MsgId: MMSG-205180]
+t=00061415ms: ** 6: Click on Images link ** successfully completed    [MsgId: MMSG-205180]
+t=00062351ms: ** 8: Click on Google image ** started    [MsgId: MMSG-205180]
+t=00063575ms: ** 8: Click on Google image ** successfully completed    [MsgId: MMSG-205180]
+t=00063591ms: ** 10: search (1) ** started    [MsgId: MMSG-205180]
+t=00064744ms: ** 10.1: Click on Search combobox ** started    [MsgId: MMSG-205180]
+t=00065155ms: ** 10.1: Click on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00065665ms: ** 10.2: Type food in Search combobox ** started    [MsgId: MMSG-205180]
+t=00067041ms: ** 10.2: Type food in Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00067557ms: ** 10.3: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]
+t=00068880ms: ** 10.3: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]
+t=00068915ms: ** 10: search (1) ** successfully completed    [MsgId: MMSG-205180]
+t=00068932ms: ** 11: Mouse Over ** started    [MsgId: MMSG-205180]
+t=00069464ms: ** 11.4: Move mouse over element (3) ** started    [MsgId: MMSG-205180]
+t=00069716ms: ** 11.4: Move mouse over element (3) ** successfully completed    [MsgId: MMSG-205180]
+t=00069743ms: ** 11: Mouse Over ** successfully completed    [MsgId: MMSG-205180]
+t=00070258ms: ** 12: Click on Images link ** started    [MsgId: MMSG-205180]
+t=00072108ms: ** 12: Click on Images link ** successfully completed    [MsgId: MMSG-205180]
+t=00072745ms: ** 14: Click on Google image ** started    [MsgId: MMSG-205180]
+t=00073664ms: ** 14: Click on Google image ** successfully completed    [MsgId: MMSG-205180]
+Ending action Action.
+Ending iteration 3.
+Ending Vuser...
+Starting action End.
+Ending action End.
+Vuser Terminated.

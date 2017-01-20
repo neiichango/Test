@@ -1,0 +1,15 @@
+t=00932188ms: Error -205177: Heartbeat failed for Virtual User    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+t=00049295ms: ** 10.3: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00049441ms: ** 10: search (1) ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00049456ms: ** 11: Mouse Over ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00049987ms: ** 11.4: Move mouse over element (3) ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00050272ms: ** 11.4: Move mouse over element (3) ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00050297ms: ** 11: Mouse Over ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00050814ms: ** 12: Click on Images link ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00052802ms: ** 12: Click on Images link ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00053616ms: ** 14: Click on Google image ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00932189ms: Error -205177:  IPC connection to browser process is lost    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

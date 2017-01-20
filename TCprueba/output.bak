@@ -1,0 +1,16 @@
+Virtual User Script started at : 2016-09-16 18:04:09
+Starting action Init.
+TruClient Replay for LoadRunner 12.50.0, build 1096. OS: Windows 8.1, Browser: IE, initialized on 2016/09/16 at 18:04:08 (0000.000s)
+Ending action Init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+t=00002914ms: ** 1: Navigate to "www.google.com" ** started    [MsgId: MMSG-205180]
+t=00008589ms: ** 1: Navigate to "www.google.com" ** successfully completed    [MsgId: MMSG-205180]
+Ending Vuser...
+Starting action End.
+t=00009107ms: ** 3: Type flower in Search combobox ** started    [MsgId: MMSG-205180]
+Ending action End.
+Vuser Terminated.
+t=00009553ms: Error -205177: ** 3: Type flower in Search combobox ** failed - Textbox object was deleted while typing       Snapshot Info [MSH End 0]    [MsgId: MERR-205177]
+Ending action Action.

@@ -1,0 +1,13 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+t=00035830ms: ** 1: Navigate to "www.google.com" ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00036348ms: ** 3: Type flower in Search combobox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00039070ms: ** 3: Type flower in Search combobox ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00039580ms: ** 4: Press Enter key on Search combobox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00040958ms: ** 4: Press Enter key on Search combobox ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00041473ms: ** 6: Click on Images link ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00043065ms: ** 6: Click on Images link ** successfully completed    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00043930ms: ** 8: Click on Google image ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00064561ms: Error -205177: ** 8: Click on Google image ** failed - target object was not found.       Snapshot Info [MSH 2 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

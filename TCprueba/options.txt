@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Tek\Desktop\TCprueba
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\tek\desktop\tcprueba\\logfile.log
+c:\users\tek\desktop\tcprueba\\combined_TCprueba.c
+c:\users\tek\desktop\tcprueba\\pre_cci.c

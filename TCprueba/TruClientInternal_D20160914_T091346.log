@@ -1,0 +1,8 @@
+
+TruClient internal log file opened from thread 1010 on 2016/09/14 at 09:13:46 (1473866026.867s) for run starting on 2016/09/14 at 09:13:46 (1473866026.867s)
+
+gRtsSupportOption1=IMSR
+gRtsLogReqBitsInternal: iMsr
+
+ThreadID t-diff: t=accepted: Text......................[WritingThread WriteTime MsgTypeAbbrev]
+-------- ------- -----------------------------------------------------------------------------
